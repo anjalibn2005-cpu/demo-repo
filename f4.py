@@ -1,0 +1,1 @@
+print("my college name is jgi")
